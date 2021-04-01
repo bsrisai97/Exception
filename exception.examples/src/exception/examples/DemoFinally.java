@@ -16,7 +16,7 @@ public class DemoFinally
 		{
 			System.out.println("compulsary");
 		}
-		System.out.println("ArithmeticException occur:its not valid");
+		System.out.println("ArithmeticException occur:its not valid by srisai");
 	}
 
 	}
